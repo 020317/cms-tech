@@ -1,0 +1,43 @@
+body {
+
+	margin:0;
+}
+
+.menu {
+
+	height: 40px;
+	background-color: #000;
+	color:#fff;
+}
+.menu a {
+
+	color:#fff;
+
+
+}
+.menu ul {
+   margin:0;
+   padding:0;
+   list-style: none;
+
+}
+.menu li {
+
+	float:left;
+	height:40px;
+	line-height: 40px;
+	padding-left: 20px;
+	padding-right: 20px;
+
+}
+
+.menu li:hover {
+
+	background-color:#fff;
+	color:#000;
+
+}
+.container{
+
+	margin:20px	;
+}
